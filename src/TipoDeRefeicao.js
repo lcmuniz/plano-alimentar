@@ -62,6 +62,9 @@ export default function App({ navigation }) {
       >
         <Text style={{ color: "white" }}>Jantar</Text>
       </TouchableOpacity>
+      <Text style={{ color: "gray", marginTop: 10, textAlign: "center" }}>
+        novembro
+      </Text>
       <StatusBar style="auto" />
     </View>
   );
